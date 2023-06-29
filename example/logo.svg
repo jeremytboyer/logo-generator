@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200"><rect x="50" y="50" width="200" height="200" fill="green"/><text x="100" y="110" text-anchor="middle" font-size="60" fill="white">jtb</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200"><polygon points="50 15, 100 100, 0 100" fill="lightblue"/><text x="50" y="80" font-size="40" text-anchor="middle" fill="black">jtb</text></svg>
