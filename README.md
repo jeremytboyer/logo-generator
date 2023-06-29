@@ -22,6 +22,7 @@ npm -i
 ## Usage 
 
 node index.js and follow the prompts in the terminal
+
 [Walkthrough Video](https://drive.google.com/file/d/1ZQokK4NTC_So9UoxS4kqupe_v8u9Vu8i/view)
 
 ## License
