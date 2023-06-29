@@ -28,6 +28,14 @@ function showMenu() {
             const shape = new Circle(answer.color, answer.textColor, answer.text)
 
             writeToFile(shape.render())
+        } else if (answer.shape === "Square") {
+            const shape = new Square(answer.color, answer.textColor, answer.text)
+
+            writeToFile(shape.render())
+        } else if (answer.shape === "Triangle") {
+            const shape = new Triangle(answer.color, answer.textColor, answer.text)
+
+            writeToFile(shape.render())
         }
     })
   }
