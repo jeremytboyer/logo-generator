@@ -43,6 +43,7 @@ function showMenu() {
   function writeToFile(render) {
     fs.writeFile('./example/logo.svg', render, err => {
         if (err) throw err
+        console.log('Generated logo.svg')
     })
   }
 
